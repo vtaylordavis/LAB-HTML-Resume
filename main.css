@@ -1,3 +1,26 @@
 body {
-  background-color: lavenderblush;
+  background-color: rgba(160, 225, 186, 0.927);
+}
+
+h2 {
+  color: rgb(83, 0, 0);
+}
+
+article{
+  padding: 50px;
+}
+
+#article1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 1px dotted red;
+}
+
+#article2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 3px solid blue;
+}
+
+#article3 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 5px dashed yellow;
 }
