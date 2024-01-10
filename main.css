@@ -1,13 +1,17 @@
 body {
-  background-color: rgba(247, 247, 235, 0.927);
+  background-color: rgba(248, 249, 255, 0.927);
 }
 
 h2 {
   color: rgb(86, 202, 90);
 }
 
-article{
-  padding: 50px;
+article {
+  padding: 30px;
+}
+
+ul {
+  font-size: larger;
 }
 
 #article1 {
@@ -17,7 +21,7 @@ article{
 }
 
 #article2 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   border: 5px groove rgb(125, 201, 242);
 }
 
