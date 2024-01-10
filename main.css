@@ -1,9 +1,9 @@
 body {
-  background-color: rgba(160, 225, 186, 0.927);
+  background-color: rgba(247, 247, 235, 0.927);
 }
 
 h2 {
-  color: rgb(83, 0, 0);
+  color: rgb(86, 202, 90);
 }
 
 article{
@@ -12,15 +12,16 @@ article{
 
 #article1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  border: 1px dotted red;
+  border: 3px ridge rgb(255, 179, 254);
+  border-radius: 5px;
 }
 
 #article2 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  border: 3px solid blue;
+  border: 5px groove rgb(125, 201, 242);
 }
 
 #article3 {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  border: 5px dashed yellow;
+  border: 7px double rgb(175, 60, 233);
 }
